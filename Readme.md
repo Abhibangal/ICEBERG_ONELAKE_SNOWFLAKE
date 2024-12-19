@@ -1,6 +1,6 @@
 # Snowflake Managed Iceberg Table Integration with MS Fabric Lakehouse
 
-![Integration Overview](https://upload.wikimedia.org/wikipedia/commons/2/2c/Cloud_Storage_Concept.jpg)
+![Integration Overview](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fsridhar-ramaswamy_very-excited-to-expand-our-partnership-with-activity-7199105600952098817-hZ6Y&psig=AOvVaw2ZIjt1DMCXsJBHq6BZmtIe&ust=1734682854714000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJi04qyzs4oDFQAAAAAdAAAAABAE)
 
 ## Overview
 
